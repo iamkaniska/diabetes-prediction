@@ -1,4 +1,4 @@
-import { FaInstagram, FaLinkedinIn, FaMapMarkerAlt, FaEnvelope, FaPhone, FaGithub, FaQuora } from 'react-icons/fa';
+import { FaLinkedinIn, FaMapMarkerAlt, FaEnvelope, FaPhone, FaGithub} from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import logo from '../assets/tab-icon.png'; // Import your logo image
 
