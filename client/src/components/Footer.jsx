@@ -62,7 +62,7 @@ const Footer = () => {
 
       <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center px-6 md:px-12 lg:px-20">
         <div className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
-          <p>&copy; 2024 Diabetes Prediction. All rights reserved.</p>
+          <p>&copy; 2026 Diabetes Prediction. All rights reserved.</p>
         </div>
         <div>
           <a

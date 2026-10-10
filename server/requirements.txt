@@ -23,3 +23,4 @@ gunicorn
 seaborn
 scikit-learn
 matplotlib
+gunicorn
