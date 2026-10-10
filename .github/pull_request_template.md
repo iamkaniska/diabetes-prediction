@@ -17,6 +17,4 @@ _Enter the issue number of the bug(s) that this PR fixes_
 - Template should be strictly **Closes <issue_number>**
 - Example: Closes #1
 
-## Prerequisites
 
-- [ ] Have you followed all the [CONTRIBUTING GUIDELINES](https://github.com/BamaCharanChhandogi/Diabetes-Prediction/blob/main/CONTRIBUTION.md)?

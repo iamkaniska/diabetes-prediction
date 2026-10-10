@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
         <div>
           <a
-            href="https://www.github.com/BamaCharanChhandogi"
+            href="https://github.com/iamkaniska"
             className="text-gray-400 hover:text-white transition-colors duration-300 text-center md:text-right"
           >
             <p>Developed by Kaniska Maity</p>
